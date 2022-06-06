@@ -11,5 +11,5 @@ export class CreateUsersDto{
     userdob:Date;
     usergender:string;
     usermail:string;
-    Roles:Roles[];
+    Role:Roles[];
 }
